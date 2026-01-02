@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Pedro Patrício",
+    "section": "",
+    "text": "## Bem-vindo(a)!\nSou economista focado em **Planejamento Urbano** e **Ciência de Dados**. Este espaço é dedicado a compartilhar meus projetos, análises geoespaciais e reflexões sobre o desenvolvimento das cidades.\n\nNo que eu trabalho:\n* Análise de dados habitacionais e déficit habitacional. * Modelagem geoespacial com R, Python e QGIS. * Visualização de dados para políticas públicas.\nSinta-se à vontade para explorar meus projetos e entrar em contato!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n\nCode\n1 + 1\n\n\n[1] 2"
+  }
+]
