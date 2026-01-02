@@ -1,0 +1,26 @@
+---
+title: "Pedro Patrício"
+image: fotos/profile-pic.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/pedropatricio-econ/
+    - icon: github
+      text: Github
+      href: https://github.com/pepatricio
+    - icon: envelope
+      text: Contato
+      href: mailto:pedropatricio7@gmail.com
+---
+
+\## Bem-vindo(a)!
+
+Sou economista focado em \*\*Planejamento Urbano\*\* e \*\*Ciência de Dados\*\*. Este espaço é dedicado a compartilhar meus projetos, análises geoespaciais e reflexões sobre o desenvolvimento das cidades.
+
+### No que eu trabalho:
+
+[\*]{.underline} Análise de dados habitacionais e déficit habitacional. [\*]{.underline} Modelagem geoespacial com R, Python e QGIS. [\*]{.underline} Visualização de dados para políticas públicas.
+
+Sinta-se à vontade para explorar meus projetos e entrar em contato!
